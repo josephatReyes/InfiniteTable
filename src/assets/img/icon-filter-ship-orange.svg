@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-barcos-filtros-naranja</title>
+    <desc>Created with Sketch.</desc>
+    <g id="WEB-CentricView-3.0---VSAT-WebApp-Version" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="barcos">
+            <circle id="Oval" fill="#EF7622" fill-rule="evenodd" cx="30" cy="30" r="30"></circle>
+            <g id="barco-linealbco" transform="translate(19.000000, 16.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M10,3 L10,0 L14,0 L14,3 L15.9630859,3 L19.0051624,10.7959139 L24,12.0886544 L20.0051398,25 L3.99437192,25 L3.12105897e-12,12.0886544 L5.01733796,10.804336 L8.10337522,3 L10,3 Z M11.1656418,1.20472301 L11.1656418,3 L12.8218217,3 L12.8218217,1.20472301 L11.1656418,1.20472301 Z M22.3236136,13.0008459 L12,10.4167151 L1.68254573,13.0008459 L2.7827846,16.5780409 L12,14.3514557 L21.2587891,16.4778735 L22.3236136,13.0008459 Z M20.8404652,17.7360396 L12,15.6943534 L3.14794922,17.8357599 L4.86483487,23.7221236 L19,23.7221236 L20.8404652,17.7360396 Z M15.0863281,4.3421875 L9.00107422,4.3421875 L6.73027344,10.3500237 L12.0112502,9 L17.3469727,10.3500237 L15.0863281,4.3421875 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

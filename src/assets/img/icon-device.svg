@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="18px" viewBox="0 0 22 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>device</title>
+    <desc>Created with Sketch.</desc>
+    <g id="WEB-CentricView-3.0---VSAT-WebApp-Version" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FOOTER-VIEW-ACTIONS" transform="translate(-493.000000, -241.000000)">
+            <g id="Group" transform="translate(435.000000, 76.000000)">
+                <g id="Group-5-Copy-2" transform="translate(35.000000, 153.000000)">
+                    <g id="device" transform="translate(23.000000, 12.000000)">
+                        <rect id="Rectangle" stroke="#636569" stroke-width="1.4" x="0.7" y="11.5" width="20.6" height="5.8" rx="1"></rect>
+                        <path d="M2.75,13.7837109 L11,13.7837109 L11,14.9537109 L2.75,14.9537109 L2.75,13.7837109 Z M14.6666667,15.3 C14.1604056,15.3 13.75,14.8970563 13.75,14.4 C13.75,13.9029437 14.1604056,13.5 14.6666667,13.5 C15.1729277,13.5 15.5833333,13.9029437 15.5833333,14.4 C15.5833333,14.8970563 15.1729277,15.3 14.6666667,15.3 Z M18.3333333,15.3 C17.8270723,15.3 17.4166667,14.8970563 17.4166667,14.4 C17.4166667,13.9029437 17.8270723,13.5 18.3333333,13.5 C18.8395944,13.5 19.25,13.9029437 19.25,14.4 C19.25,14.8970563 18.8395944,15.3 18.3333333,15.3 Z" id="Combined-Shape" fill="#636569" fill-rule="evenodd"></path>
+                        <path d="M4.58333333,11.0459339 L4.58333333,6.54593395" id="Path-2" stroke="#636569" stroke-width="1.3" stroke-linecap="round"></path>
+                        <path d="M2.75,5.20396396 C3.3321503,4.86534535 3.94326141,4.69603604 4.58333333,4.69603604 C5.22340525,4.69603604 5.83451636,4.86534535 6.41666667,5.20396396" id="Path-3" stroke="#636569" stroke-width="1.3" stroke-linecap="round"></path>
+                        <path d="M1.83333333,3.50649636 C2.70655879,3.03116788 3.62322545,2.79350364 4.58333333,2.79350364 C5.54344121,2.79350364 6.46010788,3.03116788 7.33333333,3.50649636" id="Path-3-Copy" stroke="#636569" stroke-width="1.3" stroke-linecap="round"></path>
+                        <path d="M0.916666667,1.8 C2.08096727,1.2 3.30318949,0.9 4.58333333,0.9 C5.86347717,0.9 7.0856994,1.2 8.25,1.8" id="Path-3-Copy-2" stroke="#636569" stroke-width="1.3" stroke-linecap="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

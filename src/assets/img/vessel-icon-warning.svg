@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="31px" viewBox="0 0 28 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>icono-barcoamarillo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9.0071465,23.6237846 C3.82783912,22.2941433 0,17.5940915 0,12 C0,5.372583 5.372583,0 12,0 C18.627417,0 24,5.372583 24,12 C24,17.5940915 20.1721609,22.2941433 14.9928535,23.6237846 L12,27 L9.0071465,23.6237846 Z" id="path-1"></path>
+        <filter x="-11.5%" y="-6.5%" width="122.9%" height="123.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1.5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.239215686   0 0 0 0 0.403921569   0 0 0 0 0.42745098  0 0 0 0.7 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="CV-APP-WEB" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BARCO" transform="translate(-39.000000, 0.000000)">
+            <g id="icono-barcoamarillo" transform="translate(39.000000, 0.000000)">
+                <g id="Group-2-Copy" transform="translate(2.000000, 1.000000)">
+                    <g id="Combined-Shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use stroke="#FFCB00" stroke-width="1" fill="#F2F2F2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="barco-flatyellow" transform="translate(5.000000, 4.000000)" fill="#FFCB00">
+                        <path d="M13.2170432,9.42935231 L7,7.37725393 L0.782786434,9.42883715 L-3.79252185e-13,7.06155966 L7.00783468,4.76823246 L14,7.06155966 L13.2170432,9.42935231 Z M12.8934661,10.4079037 L11.375,15 L2.625,15 L1.10653387,10.4079037 L7,8.57865798 L12.8934661,10.4079037 Z M5.95,4.36317649e-14 L8.05,4.36317649e-14 L8.05,0.902937292 L5.95,0.902937292 L5.95,4.36317649e-14 Z M3.85288391,1.81384231 L10.1525635,1.81384231 L10.54375,4.82246684 L7,3.66477224 L3.28765869,4.82246684 L3.85288391,1.81384231 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

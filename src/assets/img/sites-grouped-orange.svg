@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>sitios-agrupados-orange</title>
+    <desc>Created with Sketch.</desc>
+    <g id="WEB-CentricView-3.0---VSAT-WebApp-Version" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="todos_plasta">
+            <circle id="Oval-Copy-3" fill="#EF7622" cx="30" cy="30" r="30"></circle>
+            <g id="Oval-Copy-3" stroke-width="1" transform="translate(8.000000, 7.000000)" stroke="#FFFFFF">
+                <g id="agrupacion_sitios" transform="translate(22.500000, 23.000000) rotate(-25.000000) translate(-22.500000, -23.000000) translate(7.000000, 5.000000)" stroke-width="1.3">
+                    <circle id="Oval" cx="15" cy="18" r="8.35"></circle>
+                    <path d="M6.5015346,10.475232 C4.58803437,12.6966158 3.63128425,15.0613339 3.63128425,17.9295374 C3.63128425,20.7977409 4.58803437,23.3219725 6.5015346,25.5022321" id="Line" stroke-linecap="square"></path>
+                    <path d="M22.1053153,18.5303132 C20.1918151,20.751697 19.2350649,23.2964906 19.2350649,26.1646942 C19.2350649,29.0328977 20.1918151,31.5571293 22.1053153,33.7373889" id="Line" stroke-linecap="square" transform="translate(20.670190, 26.133851) rotate(-125.000000) translate(-20.670190, -26.133851) "></path>
+                    <path d="M23.962213,18.8777304 C21.5876438,21.7673123 20.3550023,24.7444179 20.3550023,28.3670607 C20.3550023,31.9897034 21.8221605,35.4373634 23.8683588,37.7454298" id="Line" stroke-linecap="square" transform="translate(22.158608, 28.311580) rotate(-125.000000) translate(-22.158608, -28.311580) "></path>
+                    <path d="M20.6874561,1.46088502 C18.7739559,3.68226878 17.76685,6.13524933 17.76685,9.00345285 C17.76685,11.8716563 18.7236001,14.3958879 20.6371004,16.5761475" id="Line-Copy" stroke-linecap="square" transform="translate(19.227153, 9.018516) rotate(115.000000) translate(-19.227153, -9.018516) "></path>
+                    <path d="M21.8470614,-2.79314949 C19.2890987,0.293784449 18.4301424,3.74880452 18.4301424,6.74814084 C18.4301424,9.74747717 19.6195449,13.4604515 22.1997118,16.2141966" id="Line-Copy-2" stroke-linecap="square" transform="translate(20.314927, 6.710524) rotate(116.000000) translate(-20.314927, -6.710524) "></path>
+                    <path d="M4.53111049,8.30817522 C2.65841239,10.475232 0.662527902,13.3893673 0.662527902,18.0476888 C0.662527902,22.7060103 2.33244978,25.4073661 4.53111049,27.6923828" id="Line" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

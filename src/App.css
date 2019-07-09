@@ -1,0 +1,211 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+/* ICONOS */
+
+
+.icon-check-events-gray {
+  width: 20px;
+  height: 20px;
+	fill: black;
+	display: inline-block;
+	background-image: url('./assets/img/icon-check-events-gray.svg');
+	background-size: 20px 20px;
+	background-color: transparent;
+	background-position: left;
+	background-repeat: no-repeat;
+	margin-left: 10px;
+}
+
+.icon-check-events {
+  width: 20px;
+  height: 20px;
+	display: inline-block;
+	background-image: url('./assets/img/icon-check-events.svg');
+	background-size: 20px 20px;
+	background-color: transparent;
+	background-position: left;
+	background-repeat: no-repeat;
+	margin-left: 10px;
+}
+
+.icon-messaje-events {
+  width: 21.07px;
+  height: 20px;
+	display: inline-block;
+	background-image: url('./assets/img/icon-msessaje-events.svg');
+	background-size: 20px 20px;
+	background-color: transparent;
+	background-position: left;
+	background-repeat: no-repeat;
+	margin-left: 10px;
+}
+
+.icon-save-events {
+  width: 20px;
+  height: 20px;
+	display: inline-block;
+	background-image: url('./assets/img/icon-save-events.svg');
+	background-size: 20px 20px;
+	background-color: transparent;
+	background-position: left;
+	background-repeat: no-repeat;
+	margin-left: 10px;
+}
+
+.icon-save-events-gray {
+  width: 20px;
+  height: 20px;
+	display: inline-block;
+	background-image: url('./assets/img/icon-save-events-gray.svg');
+	background-size: 20px 20px;
+	background-color: transparent;
+	background-position: left;
+	background-repeat: no-repeat;
+	margin-left: 10px;
+}
+
+.icon-view-events-gray {
+  width: 20px;
+  height: 20px;
+	fill: black;
+	display: inline-block;
+	background-image: url('./assets/img/icon_view_gray.svg');
+	background-size: 20px 20px;
+	background-color: transparent;
+	background-position: left;
+	background-repeat: no-repeat;
+	margin-left: 10px;
+}
+
+.icon-view-events {
+  width: 20px;
+  height: 20px;
+	display: inline-block;
+	background-image: url('./assets/img/icon-view-events.svg');
+	background-size: 20px 20px;
+	background-color: transparent;
+	background-position: left;
+	background-repeat: no-repeat;
+	margin-left: 10px;
+}
+
+.icon-view-events-archived {
+  width: 20px;
+  height: 20px;
+	display: inline-block;
+	background-image: url('./assets/img/icon-view-events.svg');
+	background-size: 20px 20px;
+	background-color: transparent;
+	background-position: left;
+	background-repeat: no-repeat;
+	margin-left: 10px;
+}
+
+.icon-warning {
+  width: 19px;
+  height: 20px;
+	transform: scale(0.80);
+	display: inline-block;
+	background-image: url('./assets/img/icon-alert.svg');
+	background-size: 20px 20px;
+	background-color: transparent;
+	background-position: left;
+	background-repeat: no-repeat;
+	margin-left: 5px;
+}
+
+.icon-unreachable {
+  width: 19px;
+  height: 20px;
+	transform: scale(0.80);
+	display: inline-block;
+	background-image: url('./assets/img/icon-unreachable.svg');
+	background-size: 20px 20px;
+	background-color: transparent;
+	background-position: left;
+	background-repeat: no-repeat;
+	margin-left: 5px;
+}
+
+.icon-down {
+  width: 19px;
+  height: 20px;
+	transform: scale(0.80);
+	display: inline-block;
+	background-image: url('./assets/img/icon-alert-red.svg');
+	background-size: 20px 20px;
+	background-color: transparent;
+	background-position: left;
+	background-repeat: no-repeat;
+	margin-left: 5px;
+}
+
+.icon-work {
+  width: 19px;
+  height: 20px;
+	transform: scale(0.80);
+	display: inline-block;
+	background-image: url('./assets/img/icon-device-green.svg');
+	background-size: 20px 20px;
+	background-color: transparent;
+	background-position: left;
+	background-repeat: no-repeat;
+	margin-left: 5px;
+}
+
+.icon-alarm-historic {
+  width: 21.07px;
+  height: 20px;
+	transform: scale(0.80);
+	display: inline-block;
+	background-image: url('./assets/img/add_icon.svg');
+	background-size: 20px 20px;
+	background-color: transparent;
+	background-position: left;
+	background-repeat: no-repeat;
+}
+
+.icon-alarm-historic-ae {
+  width: 21.07px;
+  height: 20px;
+	transform: scale(0.80);
+	display: inline-block;
+	background-image: url('./assets/img/add_icon.svg');
+	background-size: 20px 20px;
+	background-color: transparent;
+	background-position: left;
+	background-repeat: no-repeat;
+}

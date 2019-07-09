@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>mas</title>
+    <desc>Created with Sketch.</desc>
+    <g id="CV-APP-WEB" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HOME" transform="translate(-287.000000, -847.000000)">
+            <g id="BODY-2" transform="translate(269.000000, 60.000000)">
+                <g id="MAPA" transform="translate(1.000000, 1.000000)">
+                    <g id="Group-10">
+                        <g id="mas" transform="translate(17.000000, 786.000000)">
+                            <circle id="Oval-Copy-3" stroke="#EF7622" stroke-width="1" fill="#FFFFFF" cx="20" cy="20" r="19.5"></circle>
+                            <path d="M19.2020752,13 L20.8081177,13 C20.9185746,13 21.0081177,13.0895431 21.0081177,13.2 L21.0081177,18.9862891 L26.8,18.9862891 C26.9104569,18.9862891 27,19.0758321 27,19.1862891 L27,20.775232 C27,20.8856889 26.9104569,20.975232 26.8,20.975232 L21.0081177,20.975232 L21.0081177,26.8 C21.0081177,26.9104569 20.9185746,27 20.8081177,27 L19.2020752,27 C19.0916182,27 19.0020752,26.9104569 19.0020752,26.8 L19.0020752,20.975232 L13.2,20.975232 C13.0895431,20.975232 13,20.8856889 13,20.775232 L13,19.2 C13,19.0895431 13.0895431,19 13.2,19 L19.0020752,19 L19.0020752,13.2 C19.0020752,13.0895431 19.0916182,13 19.2020752,13 Z" id="Rectangle" fill="#EF7622"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

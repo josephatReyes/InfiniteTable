@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="31px" viewBox="0 0 26 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>sitio-plataforma-mapa</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9.0071465,23.6237846 C3.82783912,22.2941433 0,17.5940915 0,12 C0,5.372583 5.372583,0 12,0 C18.627417,0 24,5.372583 24,12 C24,17.5940915 20.1721609,22.2941433 14.9928535,23.6237846 L12,27 L9.0071465,23.6237846 Z" id="path-1"></path>
+        <filter x="-8.3%" y="-5.6%" width="116.7%" height="119.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1.5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.414168793   0 0 0 0 0.414168793   0 0 0 0 0.414168793  0 0 0 0.683112545 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="WEB-CentricView-3.0---VSAT-WebApp-Version" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icono-plataformaflat" transform="translate(-1.000000, 0.000000)">
+            <g id="Group-2-Copy-8" transform="translate(2.000000, 1.000000)">
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use stroke="#634C00" stroke-width="1" fill="#F2F2F2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M4,12.2557373 L20,12.2557373 L20,15.0666504 L4,15.0666504 L4,12.2557373 Z M12.4580688,6.26037598 L17.1540527,6.26037598 L17.1540527,8 L12.4580688,8 L12.4580688,6.26037598 Z M6.46588135,8.56286621 L10.0240479,8.56286621 L10.4106445,11.3737793 L6.09075928,11.3737793 L6.46588135,8.56286621 Z M6.92242432,5.27960205 L9.59902954,5.27960205 L9.92807007,7.81091309 L6.59060669,7.81091309 L6.92242432,5.27960205 Z M7.77868652,4.00253296 L8.70544434,4.00253296 L8.70544434,4.70803833 L7.77868652,4.70803833 L7.77868652,4.00253296 Z M6.26660156,15.5995483 L7.26660156,15.5995483 L7.26660156,16.4104614 L6.26660156,16.4104614 L6.26660156,15.5995483 Z M9.84442139,15.6021118 L10.8444214,15.6021118 L10.8444214,16.4130249 L9.84442139,16.4130249 L9.84442139,15.6021118 Z M13.1449585,15.5890503 L14.1449585,15.5890503 L14.1449585,16.3999634 L13.1449585,16.3999634 L13.1449585,15.5890503 Z M16.5404663,15.6000366 L17.5404663,15.6000366 L17.5404663,16.4109497 L16.5404663,16.4109497 L16.5404663,15.6000366 Z M4,17 L20,17 L20,18.3662109 L4,18.3662109 L4,17 Z M11.5357666,8.95690918 L18.1095581,8.95690918 L18.1095581,11.3435669 L11.5357666,11.3435669 L11.5357666,8.95690918 Z" id="Combined-Shape" fill="#634C00"></path>
+            </g>
+        </g>
+    </g>
+</svg>

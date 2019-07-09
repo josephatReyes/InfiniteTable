@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-alert-red</title>
+    <desc>Created with Sketch.</desc>
+    <g id="WEB-CentricView-3.0---VSAT-WebApp-Version" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ERROR" fill="#D21616">
+            <path d="M12.5000002,2 C6.71027901,2 2,6.71027911 2,12.5000002 C2,18.2897209 6.71027901,23 12.5000002,23 C18.2897209,23 23,18.2897209 23,12.5000002 C23,6.71027911 18.2897209,2 12.5000002,2 Z M12.5,0 C19.4035625,0 25,5.59643706 25,12.5 C25,19.4035625 19.4035625,25 12.5,25 C5.59643708,25 0,19.4035625 0,12.5 C0,5.59643706 5.59643708,0 12.5,0 Z" id="Fill-154"></path>
+            <polygon id="Fill-156" points="16.4852812 7 18.1116268 8.62634557 9.62634557 17.1116268 8 15.4852812"></polygon>
+            <polygon id="Fill-158" points="8 8.62634557 9.62634557 7 18.1116268 15.4852812 16.4852812 17.1116268"></polygon>
+        </g>
+    </g>
+</svg>

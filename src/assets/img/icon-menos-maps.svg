@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-menos-maps</title>
+    <desc>Created with Sketch.</desc>
+    <g id="WEB-CentricView-3.0---VSAT-WebApp-Version" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="menos">
+            <circle id="Oval-Copy-3" stroke="#EF7622" stroke-width="1" fill="#FFFFFF" cx="20" cy="20" r="19.5"></circle>
+            <path d="M27,19.1862891 L27,20.775232 C27,20.8856889 26.9104569,20.975232 26.8,20.975232 L13.2,20.975232 C13.0895431,20.975232 13,20.8856889 13,20.775232 L13.000196,19.2 C13.000196,19.0896195 13.0896197,19.0001082 13.2000001,19.0000001 L26.7999999,18.9862892 C26.9104568,18.986181 27.0000875,19.0756363 27.0001957,19.1860932 C27.0001957,19.1861585 27.0001958,19.1862238 27.0001958,19.1862891 Z" id="Rectangle" fill="#EF7622"></path>
+        </g>
+    </g>
+</svg>
