@@ -1,9 +1,10 @@
 import React, {useEffect, useState} from 'react';
 import logo from './logo.svg';
+
 import './App.css';
 import Tabs from 'react-bootstrap/Tabs'
 import Tab from 'react-bootstrap/Tab'
-
+import Table from 'react-bootstrap/Table'
 import { FixedSizeList as List } from "react-window";
 import { list } from './list';
 // Table data as an array of objects
@@ -12,21 +13,21 @@ import { list } from './list';
 
 function App() {
 
-  const [lista, setLista]= useState(list);
 
 
 
   const Row = ({ index, style }) => (
-    <table className={index % 2 ? "ListItemOdd" : "ListItemEven"} style={style}>
+    <Table  bordered hover responsive  className={index % 2 ? "ListItemOdd" : "ListItemEven"} style={style}>
     
       <tbody>
   <tr>
   
     <td style={{width:"10%"}}>
-    {list[index].userId}
+       {list[index].id}
     </td>
     <td style={{width:"10%"}}>
-    {list[index].id}
+    {list[index].userId}
+
     </td>
     <td style={{width:"25%"}}>
       {list[index].title}
@@ -53,13 +54,11 @@ function App() {
     </td>
   </tr>
       </tbody>
-    </table>
+    </Table>
   
   );
 
-  useEffect(()=>{
-    console.log(lista)
-  },[lista])
+ 
   return (
     <div className="App">
 
@@ -68,15 +67,15 @@ function App() {
   <Tab eventKey="home" title="Home">
   <div>
 
-  <table style={{width:"100%"}}>
+  <Table style={{width:"100%"}} striped bordered hover >
 
 <thead>
 <tr>
   <th style={{width:"10%"}}>
-    userId
+    Id
   </th>
   <th style={{width:"10%"}}>
-    id
+    Userid
   </th>
 
   <th style={{width:"25%"}}>
@@ -94,7 +93,7 @@ function App() {
 </thead>
 
 
-</table>
+</Table >
 
 
 <List
@@ -113,7 +112,7 @@ function App() {
   <Tab eventKey="profile" title="Profile">
    <div>
 
-   <table style={{width:"100%"}}> 
+   <Table style={{width:"100%"}}> 
 
 <thead>
 <tr>
@@ -139,7 +138,7 @@ function App() {
 </thead>
 
 
-</table>
+</Table>
 
 
 <List
