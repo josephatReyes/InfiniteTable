@@ -8,46 +8,6 @@ import { FixedSizeList as List } from "react-window";
 import { list } from './list';
 // Table data as an array of objects
 
-const Row = ({ index, style }) => (
-  <table className={index % 2 ? "ListItemOdd" : "ListItemEven"} style={style}>
-  
-    <tbody>
-<tr>
-
-  <td style={{width:100}}>
-  {list[index].userId}
-  </td>
-  <td style={{width:100}}>
-  {list[index].id}
-  </td>
-  <td style={{width:200}}>
-    {list[index].title}
-  </td>
-  <td style={{width:200}}>
-    {list[index].completed}
-  </td>
-
-  <td style={{width:200}}>
-    <div className="icon-check-events-gray " onClick={()=>{alert("open modal"+ list[index].userId)}}>
-
-    </div>
-    <div className="icon-messaje-events">
-
-    </div>
-
-    <div className="icon-save-events ">
-
-    </div>
-    <div className="icon-view-events">
-
-</div>
-
-  </td>
-</tr>
-    </tbody>
-  </table>
-
-);
 
 
 function App() {
@@ -56,6 +16,46 @@ function App() {
 
 
 
+  const Row = ({ index, style }) => (
+    <table className={index % 2 ? "ListItemOdd" : "ListItemEven"} style={style}>
+    
+      <tbody>
+  <tr>
+  
+    <td style={{width:"10%"}}>
+    {list[index].userId}
+    </td>
+    <td style={{width:"10%"}}>
+    {list[index].id}
+    </td>
+    <td style={{width:"25%"}}>
+      {list[index].title}
+    </td>
+    <td style={{width:"25%"}}>
+      {list[index].completed}
+    </td>
+  
+    <td style={{width:"30%"}}>
+      <div className="icon-check-events-gray " onClick={()=>{alert("open modal"+ list[index].userId)}}>
+  
+      </div>
+      <div className="icon-messaje-events">
+  
+      </div>
+  
+      <div className="icon-save-events ">
+  
+      </div>
+      <div className="icon-view-events">
+  
+  </div>
+  
+    </td>
+  </tr>
+      </tbody>
+    </table>
+  
+  );
 
   useEffect(()=>{
     console.log(lista)
@@ -64,29 +64,29 @@ function App() {
     <div className="App">
 
 
-<Tabs defaultActiveKey="profile" id="uncontrolled-tab-example">
+<Tabs defaultActiveKey="home" id="uncontrolled-tab-example">
   <Tab eventKey="home" title="Home">
   <div>
 
-  <table>
+  <table style={{width:"100%"}}>
 
 <thead>
 <tr>
-  <th style={{width:100}}>
+  <th style={{width:"10%"}}>
     userId
   </th>
-  <th style={{width:100}}>
+  <th style={{width:"10%"}}>
     id
   </th>
 
-  <th style={{width:200}}>
+  <th style={{width:"25%"}}>
     title
   </th>
 
-  <th style={{width:200}}>
+  <th style={{width:"25%"}}>
     completed
   </th>
-  <th style={{width:200}}>
+  <th style={{width:"30%"}}>
     Actions
   </th>
 
@@ -99,10 +99,10 @@ function App() {
 
 <List
   className="List"
-  height={150}
+  height={300}
   itemCount={list.length}
-  itemSize={35}
-  width={800}
+  itemSize={50}
+  width={"100%"}
 >
   {Row}
 </List>
@@ -113,25 +113,25 @@ function App() {
   <Tab eventKey="profile" title="Profile">
    <div>
 
-   <table>
+   <table style={{width:"100%"}}> 
 
 <thead>
 <tr>
-  <th style={{width:100}}>
+  <th style={{width:"10%"}}>
     userId
   </th>
-  <th style={{width:100}}>
+  <th style={{width:"10%"}}>
     id
   </th>
 
-  <th style={{width:200}}>
+  <th style={{width:"25%"}}>
     title
   </th>
 
-  <th style={{width:200}}>
+  <th style={{width:"25%"}}>
     completed
   </th>
-  <th style={{width:200}}>
+  <th style={{width:"30%"}}>
     Actions
   </th>
 
@@ -147,7 +147,7 @@ function App() {
   height={150}
   itemCount={list.length}
   itemSize={35}
-  width={800}
+  width={"100%"}
 >
   {Row}
 </List>
@@ -162,28 +162,30 @@ function App() {
 
 <table>
 
+
 <thead>
 <tr>
-  <th style={{width:100}}>
+  <th style={{width:"10%"}}>
     userId
   </th>
-  <th style={{width:100}}>
+  <th style={{width:"10%"}}>
     id
   </th>
 
-  <th style={{width:200}}>
+  <th style={{width:"25%"}}>
     title
   </th>
 
-  <th style={{width:200}}>
+  <th style={{width:"25%"}}>
     completed
   </th>
-  <th style={{width:200}}>
+  <th style={{width:"30%"}}>
     Actions
   </th>
 
   </tr>
 </thead>
+
 
 
 </table>
@@ -194,7 +196,7 @@ function App() {
   height={150}
   itemCount={list.length}
   itemSize={35}
-  width={800}
+  width={"100%"}
 >
   {Row}
 </List>
