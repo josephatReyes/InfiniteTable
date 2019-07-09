@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import Tabs from 'react-bootstrap/Tabs'
 import Tab from 'react-bootstrap/Tab'
-import 'react-virtualized/styles.css'; // only needs to be imported once
+
 import { FixedSizeList as List } from "react-window";
 import { list } from './list';
 // Table data as an array of objects
